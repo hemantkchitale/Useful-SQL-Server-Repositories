@@ -13,7 +13,7 @@ A list of Useful SQL Server Repositories
 
 <p class=MsoNormal><a href="https://github.com/BrentOzarULTD" target="_blank">Brent Ozar Unlimited</a></p>
 
-<p class=MsoNormal><a href="https://github.com/sqlworldwide/Presentations" target="_blank">Examples and Demo Code by sqlworldwide</a></p>
+<p class=MsoNormal><a href="https://github.com/sqlworldwide/Presentations" target="_blank">Presentations and Demo Code by sqlworldwide</a></p>
 
 <p class=MsoNormal><a href="https://github.com/MadeiraData/MadeiraToolbox" target="_blank">Open-source Repository of Useful Scripts and Solutions for the Microsoft Data Platform by Madeira Data</a></p>
 
